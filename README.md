@@ -13,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<kbd> A </kbd>
+<kbd> A </kbd>
+<kbd> A </kbd>
+<kbd> A </kbd>
+<kbd> A </kbd>
+<kbd> A </kbd>
