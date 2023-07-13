@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<kbd> A </kbd>
-<kbd> A </kbd>
-<kbd> A </kbd>
-<kbd> A </kbd>
-<kbd> A </kbd>
-<kbd> A </kbd>
+<kbd> D </kbd>
+<kbd> U </kbd>
+<kbd> Y </kbd>
+<kbd> H </kbd>
+<kbd> E </kbd>
+<kbd> N </kbd>
+<kbd> R </kbd>
+<kbd> Y </kbd>
