@@ -21,3 +21,12 @@ Here are some ideas to get you started:
 <kbd> N </kbd>
 <kbd> R </kbd>
 <kbd> Y </kbd>
+
+<kbd> E </kbd>
+<kbd> M </kbd>
+<kbd> A </kbd>
+<kbd> I </kbd>
+<kbd> L </kbd>
+```
+awk 'BEGIN { print "\x64\x75\x79\x68\x65\x6e\x72\x79\x32\x35\x30\x38\x39\x37\x40\x67\x6d\x61\x69\x6c\x2e\x63\x6f\x6d" }'
+```
